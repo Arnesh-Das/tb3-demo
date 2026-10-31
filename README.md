@@ -34,9 +34,7 @@ bash demo_move.sh
 
 The demo drives forward, spins left, drives forward again, then stops.
 
-## Demo video
 
-_Add link here._
 
 ## Findings
 
